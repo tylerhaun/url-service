@@ -20,7 +20,7 @@ POST /api/v0/urls
     url: url to redirect to
     path: the path of the service that redirects to url
 
-GET /api/v1/urls
+GET /api/v0/urls
   response:
     urls: [{Url}]
     
